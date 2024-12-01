@@ -14,10 +14,6 @@ NumPy
 Installation
 Follow these steps to set up the project on your local machine:
 
-Clone the Repository:
-
-git clone https://github.com/YOUR-USERNAME/REPO-NAME.git  
-cd REPO-NAME  
 Install Dependencies:
 
 pip install opencv-python numpy  
